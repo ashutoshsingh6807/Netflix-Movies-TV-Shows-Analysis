@@ -65,7 +65,7 @@ This project demonstrates practical skills in data cleaning, exploratory data an
 ![Netflix Content Released by Year](image.6.png)
 
 ### Genres on Netflix
-![Genres on Netflix](image.6.png)
+![Genres on Netflix](image.7.png)
 
 ### Final Insights
 ![Final_Insights](image.2.png)
