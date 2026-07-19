@@ -49,14 +49,10 @@ This project demonstrates practical skills in data cleaning, exploratory data an
 
 ## Project Visualizations
 
-### 1. Movies vs TV Shows
-(Add Screenshot)
-
-### 2. Top 10 Countries
-(Add Screenshot)
-
-### 3. Release Year Analysis
-(Add Screenshot)
-
-### 4. Top Genres
-(Add Screenshot)
+image.1.png
+image.2.png
+image.3.png
+image.4.png
+image.5.png
+image.6.png
+image.7.png
