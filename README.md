@@ -49,10 +49,25 @@ This project demonstrates practical skills in data cleaning, exploratory data an
 
 ## Project Visualizations
 
-image.1.png
-image.2.png
-image.3.png
-image.4.png
-image.5.png
-image.6.png
-image.7.png
+### Movies vs TV Shows
+![Movies vs TV Shows](image.1.png)
+
+### Final Insights
+![Final_Insights](image.2.png)
+
+### Movies vs TV Shows
+![Movies vs TV Shows](image.3.png)
+
+### Country-wise Analysis
+![Country Analysis](image.4.png)
+
+### Rating Analysis
+![Rating Analysis](image.5.png)
+
+### Netflix Content Released by Year
+![Netflix Content Released by Year](image.6.png)
+
+### Genres on Netflix
+![Genres on Netflix](image.6.png)
+
+
