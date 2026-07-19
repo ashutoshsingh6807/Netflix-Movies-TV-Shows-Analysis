@@ -52,9 +52,6 @@ This project demonstrates practical skills in data cleaning, exploratory data an
 ### Movies vs TV Shows
 ![Movies vs TV Shows](image.1.png)
 
-### Final Insights
-![Final_Insights](image.2.png)
-
 ### Movies vs TV Shows
 ![Movies vs TV Shows](image.3.png)
 
@@ -69,5 +66,8 @@ This project demonstrates practical skills in data cleaning, exploratory data an
 
 ### Genres on Netflix
 ![Genres on Netflix](image.6.png)
+
+### Final Insights
+![Final_Insights](image.2.png)
 
 
